@@ -13,8 +13,8 @@ data _<_ : Size → Size → Set where
 data Acc (s : Size) : Set where
   acc : (∀ {r} → r < s → Acc r) → Acc s
 
-false : ⊥
-false = ¬wf∞ (wf ∞) where
+false₁ : ⊥
+false₁ = ¬wf∞ (wf ∞) where
   wf : ∀ s → Acc s
   wf s = acc (λ {(lt .s r) → wf r})
   ¬wf∞ : Acc ∞ → ⊥
@@ -31,8 +31,8 @@ data Up! : Size → Set where
   huh : ∀ {i} → Up! i
   up! : ∀ {i} → {j : Size< i} → Up! j → Up! i
 
-false : ⊥
-false = hup! ∞ refl huh where
+false₂ : ⊥
+false₂ = hup! ∞ refl huh where
   hup! : ∀ i → i ≡ (↑ ∞) → Up! i → ⊥
   hup! .∞ refl u = hup! ∞ refl (up! u)
 ```
