@@ -21,4 +21,20 @@ false = ¬wf∞ (wf ∞) where
   ¬wf∞ (acc p) = ¬wf∞ (p (lt ∞ ∞))
 ```
 
+Oh? You want more? Here's more:
+
+```agda
+data _≡_ : Size → Size → Set where
+  refl : ∀ {i} → i ≡ i
+
+data Up! : Size → Set where
+  huh : ∀ {i} → Up! i
+  up! : ∀ {i} → {j : Size< i} → Up! j → Up! i
+
+false : ⊥
+false = hup! ∞ refl huh where
+  hup! : ∀ i → i ≡ (↑ ∞) → Up! i → ⊥
+  hup! .∞ refl u = hup! ∞ refl (up! u)
+```
+
 <!-- <b>ion·a·thanch</b> [jɑːnəθənt͡ʃ] <i>abbr.</i> <b>ion·chy</b> [jɑːnt͡ʃi] <i>n.</i> The cybrespatial identity of the being known as <b>Jonathan Chan</b>. -->
