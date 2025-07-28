@@ -6,7 +6,7 @@ press any key to continue...
 <br/>
 <kbd>
 <p align="center">
-<button><kbd><ruby>．<rt>～</rt></ruby></kbd></button>
+<button><kbd><ruby>·<rt>～</rt></ruby></kbd></button>
 <kbd><ruby>ㄅ<rt>1</rt></ruby></kbd>
 <kbd><ruby>ㄉ<rt>2</rt></ruby></kbd>
 <kbd><ruby>ˇ<rt>&hairsp;3&hairsp;</rt></ruby></kbd>
