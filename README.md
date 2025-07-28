@@ -1,6 +1,7 @@
 <samp>
+<kbd>
 <p>
-<kbd><ruby>｀<rt>～</rt></ruby></kbd>
+<button><kbd><ruby>｀<rt>～</rt></ruby></kbd></button>
 <kbd><ruby>ㄅ<rt>1</rt></ruby></kbd>
 <kbd><ruby>ㄉ<rt>2</rt></ruby></kbd>
 <kbd><ruby>ˇ<rt>&hairsp;3&hairsp;</rt></ruby></kbd>
@@ -46,7 +47,6 @@
 <kbd><ruby>＇<rt>＂</rt></ruby></kbd>
 <kbd><ruby>&nbsp;&nbsp;&nbsp;&nbsp;↵<rt></rt></ruby></kbd>
 </p>
-<p>
 <kbd><ruby>⇧&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<rt></rt></ruby></kbd>
 <kbd><ruby>ㄈ<rt>Z</rt></ruby></kbd>
 <kbd><ruby>ㄌ<rt>X</rt></ruby></kbd>
@@ -59,7 +59,7 @@
 <kbd><ruby>ㄡ<rt>。</rt></ruby></kbd>
 <kbd><ruby>ㄥ<rt>？</rt></ruby></kbd>
 <kbd><ruby>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⇧<rt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</rt></ruby></kbd>
-</p>
+</kbd>
 </samp>
 
 <!--
