@@ -1,4 +1,9 @@
+<details>
+<summary style="content: ''">
 <samp>
+press any button to continue...
+<br/>
+<br/>
 <kbd>
 <p>
 <button><kbd><ruby>｀<rt>～</rt></ruby></kbd></button>
@@ -61,6 +66,10 @@
 <kbd><ruby>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⇧<rt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</rt></ruby></kbd>
 </kbd>
 </samp>
+</summary>
+<br/>
+<samp>▶ logging off... saving your settings... windows is shutting down...</samp>
+</details>
 
 <!--
 <h1> <img src="https://ionathan.ch/favicon.png" width="30px"/><sup><sub><sup>closure ahead</sup></sub></sup><img src="https://ionathan.ch/favicon.png" width="30px"/> </h1>
