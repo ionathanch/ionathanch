@@ -5,7 +5,7 @@ press any key to continue...
 <br/>
 <br/>
 <kbd>
-<p>
+<p align="center">
 <button><kbd><ruby>｀<rt>～</rt></ruby></kbd></button>
 <kbd><ruby>ㄅ<rt>1</rt></ruby></kbd>
 <kbd><ruby>ㄉ<rt>2</rt></ruby></kbd>
@@ -21,7 +21,7 @@ press any key to continue...
 <kbd><ruby>＝<rt>＋</rt></ruby></kbd>
 <kbd><ruby>&nbsp;&nbsp;&nbsp;&nbsp;⌫<rt> </rt></ruby></kbd>
 </p>
-<p>
+<p align="center">
 <kbd><ruby>⇥&nbsp;&nbsp;<rt></rt></ruby></kbd>
 <kbd><ruby>ㄆ<rt>Q</rt></ruby></kbd>
 <kbd><ruby>ㄊ<rt>W</rt></ruby></kbd>
@@ -37,7 +37,7 @@ press any key to continue...
 <kbd><ruby>」<rt>』</rt></ruby></kbd>
 <kbd><ruby>、&nbsp;<rt>＼ </rt></ruby></kbd>
 </p>
-<p>
+<p align="center">
 <kbd><ruby>⇪&nbsp;&nbsp;&nbsp;&nbsp;<rt></rt></ruby></kbd>
 <kbd><ruby>ㄇ<rt>A</rt></ruby></kbd>
 <kbd><ruby>ㄋ<rt>S</rt></ruby></kbd>
@@ -52,7 +52,7 @@ press any key to continue...
 <kbd><ruby>＇<rt>＂</rt></ruby></kbd>
 <kbd><ruby>&nbsp;&nbsp;&nbsp;&nbsp;↵<rt></rt></ruby></kbd>
 </p>
-<p>
+<p align="center">
 <kbd><ruby>⇧&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<rt></rt></ruby></kbd>
 <kbd><ruby>ㄈ<rt>Z</rt></ruby></kbd>
 <kbd><ruby>ㄌ<rt>X</rt></ruby></kbd>
@@ -66,6 +66,7 @@ press any key to continue...
 <kbd><ruby>ㄥ<rt>？</rt></ruby></kbd>
 <kbd><ruby>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⇧<rt></rt></ruby></kbd>
 </p>
+<div align="center">
 <kbd>&nbsp;⎈&nbsp;&nbsp;<ruby><rt></rt></ruby></kbd>
 <kbd>&nbsp;⊞&nbsp;<ruby><rt></rt></ruby></kbd>
 <kbd>&nbsp;⎇&nbsp;<ruby><rt></rt></ruby></kbd>
@@ -73,6 +74,7 @@ press any key to continue...
 <kbd>&nbsp;⎇&nbsp;<ruby><rt></rt></ruby></kbd>
 <kbd>◆<ruby><rt></rt></ruby></kbd>
 <kbd>&nbsp;&nbsp;⎈&nbsp;<ruby><rt></rt></ruby></kbd>
+</div>
 </kbd>
 </samp>
 </summary>
