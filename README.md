@@ -52,6 +52,7 @@ press any key to continue...
 <kbd><ruby>＇<rt>＂</rt></ruby></kbd>
 <kbd><ruby>&nbsp;&nbsp;&nbsp;&nbsp;↵<rt></rt></ruby></kbd>
 </p>
+<p>
 <kbd><ruby>⇧&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<rt></rt></ruby></kbd>
 <kbd><ruby>ㄈ<rt>Z</rt></ruby></kbd>
 <kbd><ruby>ㄌ<rt>X</rt></ruby></kbd>
@@ -63,7 +64,15 @@ press any key to continue...
 <kbd><ruby>ㄝ<rt>，</rt></ruby></kbd>
 <kbd><ruby>ㄡ<rt>。</rt></ruby></kbd>
 <kbd><ruby>ㄥ<rt>？</rt></ruby></kbd>
-<kbd><ruby>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⇧<rt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</rt></ruby></kbd>
+<kbd><ruby>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⇧<rt></rt></ruby></kbd>
+</p>
+<kbd>&nbsp;⎈&nbsp;&nbsp;<ruby><rt></rt></ruby></kbd>
+<kbd>&nbsp;⊞&nbsp;<ruby><rt></rt></ruby></kbd>
+<kbd>&nbsp;⎇&nbsp;<ruby><rt></rt></ruby></kbd>
+<kbd><ruby>　　　　　　　　　　　　　&nbsp;<rt></rt></ruby></kbd>
+<kbd>&nbsp;⎇&nbsp;<ruby><rt></rt></ruby></kbd>
+<kbd>◆<ruby><rt></rt></ruby></kbd>
+<kbd>&nbsp;&nbsp;⎈&nbsp;<ruby><rt></rt></ruby></kbd>
 </kbd>
 </samp>
 </summary>
