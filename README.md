@@ -1,7 +1,7 @@
 <details>
 <summary style="content: ''">
 <samp>
-press any button to continue...
+press any key to continue...
 <br/>
 <br/>
 <kbd>
