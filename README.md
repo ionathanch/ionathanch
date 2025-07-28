@@ -1,12 +1,12 @@
 <details>
-<summary style="content: ''">
+<summary>
 <samp>
 press any key to continue...
 <br/>
 <br/>
 <kbd>
 <p align="center">
-<button><kbd><ruby>・<rt>～</rt></ruby></kbd></button>
+<kbd><ruby>・<rt>～</rt></ruby></kbd>
 <kbd><ruby>ㄅ<rt>1</rt></ruby></kbd>
 <kbd><ruby>ㄉ<rt>2</rt></ruby></kbd>
 <kbd><ruby>ˇ<rt>&hairsp;3&hairsp;</rt></ruby></kbd>
