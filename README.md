@@ -19,10 +19,10 @@ press any key to continue...
 <kbd><ruby>ㄢ<rt>0</rt></ruby></kbd>
 <kbd><ruby>ㄦ<rt>－</rt></ruby></kbd>
 <kbd><ruby>＝<rt>＋</rt></ruby></kbd>
-<kbd><ruby>&nbsp;&nbsp;&nbsp;&nbsp;⌫<rt> </rt></ruby></kbd>
+<kbd><ruby>&nbsp;&nbsp;&nbsp;⌫&nbsp;<rt> </rt></ruby></kbd>
 </p>
 <p align="center">
-<kbd><ruby>⇥&nbsp;&nbsp;<rt></rt></ruby></kbd>
+<kbd><ruby>&nbsp;⇥&nbsp;<rt></rt></ruby></kbd>
 <kbd><ruby>ㄆ<rt>Q</rt></ruby></kbd>
 <kbd><ruby>ㄊ<rt>W</rt></ruby></kbd>
 <kbd><ruby>ㄍ<rt>E</rt></ruby></kbd>
@@ -38,7 +38,7 @@ press any key to continue...
 <kbd><ruby>、&nbsp;<rt>＼ </rt></ruby></kbd>
 </p>
 <p align="center">
-<kbd><ruby>⇪&nbsp;&nbsp;&nbsp;&nbsp;<rt></rt></ruby></kbd>
+<kbd><ruby>&nbsp;⇪&nbsp;&nbsp;&nbsp;<rt></rt></ruby></kbd>
 <kbd><ruby>ㄇ<rt>A</rt></ruby></kbd>
 <kbd><ruby>ㄋ<rt>S</rt></ruby></kbd>
 <kbd><ruby>ㄎ<rt>D</rt></ruby></kbd>
@@ -50,10 +50,10 @@ press any key to continue...
 <kbd><ruby>ㄠ<rt>L</rt></ruby></kbd>
 <kbd><ruby>ㄤ<rt>：</rt></ruby></kbd>
 <kbd><ruby>＇<rt>＂</rt></ruby></kbd>
-<kbd><ruby>&nbsp;&nbsp;&nbsp;&nbsp;↵<rt></rt></ruby></kbd>
+<kbd><ruby>&nbsp;&nbsp;&nbsp;↵&nbsp;<rt></rt></ruby></kbd>
 </p>
 <p align="center">
-<kbd><ruby>⇧&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<rt></rt></ruby></kbd>
+<kbd><ruby>&nbsp;⇧&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<rt></rt></ruby></kbd>
 <kbd><ruby>ㄈ<rt>Z</rt></ruby></kbd>
 <kbd><ruby>ㄌ<rt>X</rt></ruby></kbd>
 <kbd><ruby>ㄏ<rt>C</rt></ruby></kbd>
@@ -64,7 +64,7 @@ press any key to continue...
 <kbd><ruby>ㄝ<rt>，</rt></ruby></kbd>
 <kbd><ruby>ㄡ<rt>。</rt></ruby></kbd>
 <kbd><ruby>ㄥ<rt>？</rt></ruby></kbd>
-<kbd><ruby>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⇧<rt></rt></ruby></kbd>
+<kbd><ruby>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⇧&nbsp;<rt></rt></ruby></kbd>
 </p>
 <div align="center">
 <kbd>&nbsp;⎈&nbsp;&nbsp;<ruby><rt></rt></ruby></kbd>
