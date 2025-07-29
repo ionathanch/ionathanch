@@ -79,7 +79,7 @@ press any key to continue...
 </samp>
 </summary>
 <br/>
-<samp>▶ logging off... saving your settings... windows is shutting down...</samp>
+<samp title="did you think this was a details element too? ha! you fool!">▶ logging off... saving your settings... windows is shutting down...</samp>
 </details>
 
 <!--
