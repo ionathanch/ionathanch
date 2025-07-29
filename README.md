@@ -83,6 +83,10 @@ press any key to continue...
 </details>
 
 <!--
+$$
+{ _{ _{👁️}^{👁️} {👁️} _{👁️}^{👁️} } ^{ _{👁️}^{👁️} {👁️} _{👁️}^{👁️} }} 👁️ { _{ _{👁️}^{👁️} {👁️} _{👁️}^{👁️} } ^{ _{👁️}^{👁️} {👁️} _{👁️}^{👁️} }}
+$$
+
 <h1> <img src="https://ionathan.ch/favicon.png" width="30px"/><sup><sub><sup>closure ahead</sup></sub></sup><img src="https://ionathan.ch/favicon.png" width="30px"/> </h1>
 
 ```agda
